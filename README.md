@@ -27,7 +27,7 @@ It enables professionals to track deal flow, manage client contact details, and 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/nexus-crm.git](https://github.com/SEU-USUARIO/nexus-crm.git)
+    git clone https://github.com/rodrigoniskier/nexus-crm.git
     cd nexus-crm
     ```
 
